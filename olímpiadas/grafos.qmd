@@ -1,0 +1,18 @@
+---
+title: "Teoria dos Grafos"
+---
+
+# Teoria dos Grafos
+
+Algumas notas e problemas interessantes de teoria dos grafos.
+
+## Grafos Eulerianos
+
+Um grafo $G=(V,E)$ é euleriano quando...
+
+$$
+\sum_{v\in V}d(v)=2|E|.
+$$
+
+Essa identidade é uma das ferramentas mais básicas em problemas
+envolvendo graus dos vértices.

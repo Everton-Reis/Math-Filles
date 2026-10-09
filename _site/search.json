@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "olímpiadas/grafos.html",
+    "href": "olímpiadas/grafos.html",
+    "title": "Teoria dos Grafos",
+    "section": "",
+    "text": "Algumas notas e problemas interessantes de teoria dos grafos.\n\n\nUm grafo \\(G=(V,E)\\) é euleriano quando…\n\\[\n\\sum_{v\\in V}d(v)=2|E|.\n\\]\nEssa identidade é uma das ferramentas mais básicas em problemas envolvendo graus dos vértices."
+  },
+  {
+    "objectID": "olímpiadas/grafos.html#grafos-eulerianos",
+    "href": "olímpiadas/grafos.html#grafos-eulerianos",
+    "title": "Teoria dos Grafos",
+    "section": "",
+    "text": "Um grafo \\(G=(V,E)\\) é euleriano quando…\n\\[\n\\sum_{v\\in V}d(v)=2|E|.\n\\]\nEssa identidade é uma das ferramentas mais básicas em problemas envolvendo graus dos vértices."
+  },
+  {
+    "objectID": "materiais/index.html",
+    "href": "materiais/index.html",
+    "title": "Materiais",
+    "section": "",
+    "text": "POS GRADUAÇÃO (Dá também pra ler sem sair da pagina)\n\nNotas de Processos Estocásticos\n\n\n\n\nMestre\n\n\n\n\nDá pra botar Python também\n\n\nE o estilo coloco depois"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Matemática",
+    "section": "",
+    "text": "Este é meu espaço para compartilhar coisas de matemática que considero interessantes.\nAqui pretendo reunir problemas, soluções, notas e materiais para estudantes de matemática, especialmente aqueles interessados em olimpíadas universitárias.\n\n\nAlguns dos assuntos que mais me interessam:\n\nÁlgebra\nCombinatória\nGeometria\nTeoria dos Números\nTeoria dos Grafos\n\n\n\n\nTambém pretendo escrever pequenas notas sobre matemática que estou estudando.\n\n\n\nUma coleção de:\n\nprovas;\nlistas de exercícios;\nlivros;\nartigos;\noutros materiais."
+  },
+  {
+    "objectID": "index.html#olimpíadas",
+    "href": "index.html#olimpíadas",
+    "title": "Matemática",
+    "section": "",
+    "text": "Alguns dos assuntos que mais me interessam:\n\nÁlgebra\nCombinatória\nGeometria\nTeoria dos Números\nTeoria dos Grafos"
+  },
+  {
+    "objectID": "index.html#notas",
+    "href": "index.html#notas",
+    "title": "Matemática",
+    "section": "",
+    "text": "Também pretendo escrever pequenas notas sobre matemática que estou estudando."
+  },
+  {
+    "objectID": "index.html#materiais",
+    "href": "index.html#materiais",
+    "title": "Matemática",
+    "section": "",
+    "text": "Uma coleção de:\n\nprovas;\nlistas de exercícios;\nlivros;\nartigos;\noutros materiais."
+  },
+  {
+    "objectID": "olímpiadas/index.html",
+    "href": "olímpiadas/index.html",
+    "title": "Olimpíadas",
+    "section": "",
+    "text": "Aqui reúno problemas e ideias relacionados a olimpíadas universitárias.\n\n\n\nÁlgebra\nCombinatória\nGeometria\nTeoria dos Números\nTeoria dos Grafos"
+  },
+  {
+    "objectID": "olímpiadas/index.html#áreas",
+    "href": "olímpiadas/index.html#áreas",
+    "title": "Olimpíadas",
+    "section": "",
+    "text": "Álgebra\nCombinatória\nGeometria\nTeoria dos Números\nTeoria dos Grafos"
+  },
+  {
+    "objectID": "problemas/invariantes.html",
+    "href": "problemas/invariantes.html",
+    "title": "Problemas — Invariantes",
+    "section": "",
+    "text": "Seja \\(n\\) um inteiro positivo. Considere…\nProblema. Prove que…\n\n\nConsidere o seguinte invariante:\n\\[\nI_k = ...\n\\]\nComo…\n\\[\nI_{k+1}=I_k,\n\\]\nconcluímos que…\n\n\n\n\n\n…\n\n\n…"
+  },
+  {
+    "objectID": "problemas/invariantes.html#problema-1",
+    "href": "problemas/invariantes.html#problema-1",
+    "title": "Problemas — Invariantes",
+    "section": "",
+    "text": "Seja \\(n\\) um inteiro positivo. Considere…\nProblema. Prove que…\n\n\nConsidere o seguinte invariante:\n\\[\nI_k = ...\n\\]\nComo…\n\\[\nI_{k+1}=I_k,\n\\]\nconcluímos que…"
+  },
+  {
+    "objectID": "problemas/invariantes.html#problema-2",
+    "href": "problemas/invariantes.html#problema-2",
+    "title": "Problemas — Invariantes",
+    "section": "",
+    "text": "…\n\n\n…"
+  }
+]

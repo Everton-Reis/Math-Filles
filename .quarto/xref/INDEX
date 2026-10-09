@@ -1,0 +1,26 @@
+{
+  "index.qmd": {
+    "index.html": "6eba2d21"
+  },
+  "materiais/index.qmd": {
+    "index.html": "745f3df9"
+  },
+  "notas/index.qmd": {
+    "index.html": "434c6334"
+  },
+  "olímpiadas/grafos.qmd": {
+    "grafos.html": "549da5be"
+  },
+  "olímpiadas/index.qmd": {
+    "index.html": "9ace011a"
+  },
+  "problemas/index.qmd": {
+    "index.html": "6965e441"
+  },
+  "problemas/invariantes.qmd": {
+    "invariantes.html": "947b97c9"
+  },
+  "sobre/index.qmd": {
+    "index.html": "63d5016a"
+  }
+}

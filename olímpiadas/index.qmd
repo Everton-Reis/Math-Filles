@@ -1,0 +1,15 @@
+---
+title: "Olimpíadas"
+---
+
+# Olimpíadas de Matemática
+
+Aqui reúno problemas e ideias relacionados a olimpíadas universitárias.
+
+## Áreas
+
+- [Álgebra](algebra.qmd)
+- [Combinatória](combinatoria.qmd)
+- [Geometria](geometria.qmd)
+- [Teoria dos Números](teoria-dos-numeros.qmd)
+- [Teoria dos Grafos](grafos.qmd)

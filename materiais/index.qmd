@@ -1,0 +1,15 @@
+---
+title: "Materiais"
+---
+
+# POS GRADUAÇÃO (Dá também pra ler sem sair da pagina)
+
+- [Notas de Processos Estocásticos](pdfs/stochastic_notes.pdf)
+
+![Mestre](images/Yuri.png)
+
+# Dá pra botar Python também
+
+# E o estilo coloco depois
+
+

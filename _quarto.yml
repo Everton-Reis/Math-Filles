@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  title: "Matemática"
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Início
+
+      - href: olimpíadas/index.qmd
+        text: Olimpíadas
+
+      - href: problemas/index.qmd
+        text: Problemas
+
+      - href: notas/index.qmd
+        text: Notas
+
+      - href: materiais/index.qmd
+        text: Materiais
+
+      - href: sobre/index.qmd
+        text: Sobre
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    html-math-method: mathjax

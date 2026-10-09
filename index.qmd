@@ -1,0 +1,33 @@
+---
+title: "Matemática"
+---
+
+# Olá!
+
+Este é meu espaço para compartilhar coisas de matemática que considero interessantes.
+
+Aqui pretendo reunir problemas, soluções, notas e materiais para estudantes de matemática, especialmente aqueles interessados em olimpíadas universitárias.
+
+## Olimpíadas
+
+Alguns dos assuntos que mais me interessam:
+
+- Álgebra
+- Combinatória
+- Geometria
+- Teoria dos Números
+- Teoria dos Grafos
+
+## Notas
+
+Também pretendo escrever pequenas notas sobre matemática que estou estudando.
+
+## Materiais
+
+Uma coleção de:
+
+- provas;
+- listas de exercícios;
+- livros;
+- artigos;
+- outros materiais.

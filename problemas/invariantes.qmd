@@ -1,0 +1,37 @@
+---
+title: "Problemas — Invariantes"
+---
+
+# Problemas envolvendo invariantes
+
+## Problema 1
+
+Seja $n$ um inteiro positivo. Considere...
+
+**Problema.** Prove que...
+
+### Solução
+
+Considere o seguinte invariante:
+
+$$
+I_k = ...
+$$
+
+Como...
+
+$$
+I_{k+1}=I_k,
+$$
+
+concluímos que...
+
+---
+
+## Problema 2
+
+...
+
+### Solução
+
+...
