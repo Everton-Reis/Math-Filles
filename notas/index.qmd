@@ -1,0 +1,12 @@
+title: "Notas Math"
+---
+
+# Aqui é onde o "brio" se cria!
+
+Aqui tem notas de sobre tudo, desde como caçar um coelho eficientemente até a otimização de gasolina do Optmus Prime.
+
+Vou reunir notas sobre tudo aquilo que considerar legal e útil para quem quer ler. 
+
+Para não deixar vazio, segue minhas notas de E.D.O, muito baseadas nas aulas que tive e no Livro do Boyce.
+
+- [Notas de Equações Diferenciais Ordinarias (EDO)](pdfs/Notas_EDO.pdf)

@@ -27,6 +27,11 @@ Uma coleção de:
 
 - provas;
 - listas de exercícios;
-- livros;
+- livros (quando permitido);
 - artigos;
 - outros materiais.
+
+## Contribuidores 
+
+- Everton Costa Reis (FGV-Emap)
+- Rodrigo Severo Araujo (FGV-Emap)
