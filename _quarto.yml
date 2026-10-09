@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Início
 
-      - href: olimpíadas/index.qmd
+      - href: olimpiadas/index.qmd
         text: Olimpíadas
 
       - href: problemas/index.qmd
