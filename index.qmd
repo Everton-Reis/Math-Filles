@@ -1,5 +1,5 @@
 ---
-title: "Matemática"
+title: "Piauí Math"
 ---
 
 # Olá!
@@ -12,11 +12,10 @@ Aqui pretendo reunir problemas, soluções, notas e materiais para estudantes de
 
 Alguns dos assuntos que mais me interessam:
 
-- Álgebra
-- Combinatória
-- Geometria
+- Álgebra Linear
+- Probabilidade e Processos Estocásticos
+- Geometria (Euclidiana e Diferencial)
 - Teoria dos Números
-- Teoria dos Grafos
 
 ## Notas
 

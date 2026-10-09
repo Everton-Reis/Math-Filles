@@ -2,11 +2,21 @@
 title: "Materiais"
 ---
 
-# POS GRADUAÇÃO (Dá também pra ler sem sair da pagina)
+# Pós Graduação Emap 
 
 - [Notas de Processos Estocásticos](pdfs/stochastic_notes.pdf)
 
 ![Mestre](images/Yuri.png)
+
+### Provas Antigas
+
+#### A1
+
+- [Prova A1 2025](pdfs/P1_2025.pdf)
+- [Prova A1 2024](pdfs/P1_2024.pdf)
+- [Prova A1 2023](pdfs/P1_2023.pdf)
+
+#### A2
 
 # Dá pra botar Python também
 
