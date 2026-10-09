@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Problemas — Invariantes – Piauí Math</title>
+<title>Olimpíadas – Piauí Math</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -74,35 +74,6 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
@@ -128,7 +99,7 @@ window.Quarto = {
 <span class="menu-text">Início</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../olimpíadas/index.html"> 
+    <a class="nav-link active" href="../olimpíadas/index.html" aria-current="page"> 
 <span class="menu-text">Olimpíadas</span></a>
   </li>  
   <li class="nav-item">
@@ -163,16 +134,9 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#problemas-envolvendo-invariantes" id="toc-problemas-envolvendo-invariantes" class="nav-link active" data-scroll-target="#problemas-envolvendo-invariantes">Problemas envolvendo invariantes</a>
+  <li><a href="#olimpíadas-de-matemática" id="toc-olimpíadas-de-matemática" class="nav-link active" data-scroll-target="#olimpíadas-de-matemática">Olimpíadas de Matemática</a>
   <ul class="collapse">
-  <li><a href="#problema-1" id="toc-problema-1" class="nav-link" data-scroll-target="#problema-1">Problema 1</a>
-  <ul class="collapse">
-  <li><a href="#solução" id="toc-solução" class="nav-link" data-scroll-target="#solução">Solução</a></li>
-  </ul></li>
-  <li><a href="#problema-2" id="toc-problema-2" class="nav-link" data-scroll-target="#problema-2">Problema 2</a>
-  <ul class="collapse">
-  <li><a href="#solução-1" id="toc-solução-1" class="nav-link" data-scroll-target="#solução-1">Solução</a></li>
-  </ul></li>
+  <li><a href="#áreas" id="toc-áreas" class="nav-link" data-scroll-target="#áreas">Áreas</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -182,7 +146,7 @@ window.Quarto = {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Problemas — Invariantes</h1>
+<h1 class="title">Olimpíadas</h1>
 </div>
 
 
@@ -199,35 +163,20 @@ window.Quarto = {
 </header>
 
 
-<section id="problemas-envolvendo-invariantes" class="level1">
-<h1>Problemas envolvendo invariantes</h1>
-<section id="problema-1" class="level2">
-<h2 class="anchored" data-anchor-id="problema-1">Problema 1</h2>
-<p>Seja <span class="math inline">\(n\)</span> um inteiro positivo. Considere…</p>
-<p><strong>Problema.</strong> Prove que…</p>
-<section id="solução" class="level3">
-<h3 class="anchored" data-anchor-id="solução">Solução</h3>
-<p>Considere o seguinte invariante:</p>
-<p><span class="math display">\[
-I_k = ...
-\]</span></p>
-<p>Como…</p>
-<p><span class="math display">\[
-I_{k+1}=I_k,
-\]</span></p>
-<p>concluímos que…</p>
-<hr>
-</section>
-</section>
-<section id="problema-2" class="level2">
-<h2 class="anchored" data-anchor-id="problema-2">Problema 2</h2>
-<p>…</p>
-<section id="solução-1" class="level3">
-<h3 class="anchored" data-anchor-id="solução-1">Solução</h3>
-<p>…</p>
+<section id="olimpíadas-de-matemática" class="level1">
+<h1>Olimpíadas de Matemática</h1>
+<p>Aqui reúno problemas e ideias relacionados a olimpíadas universitárias.</p>
+<section id="áreas" class="level2">
+<h2 class="anchored" data-anchor-id="áreas">Áreas</h2>
+<ul>
+<li><a href="algebra.qmd">Álgebra</a></li>
+<li><a href="combinatoria.qmd">Combinatória</a></li>
+<li><a href="geometria.qmd">Geometria</a></li>
+<li><a href="teoria-dos-numeros.qmd">Teoria dos Números</a></li>
+<li><a href="../olimpíadas/grafos.html">Teoria dos Grafos</a></li>
+</ul>
 
 
-</section>
 </section>
 </section>
 

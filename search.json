@@ -1,14 +1,14 @@
 [
   {
-    "objectID": "olímpiadas/grafos.html",
-    "href": "olímpiadas/grafos.html",
+    "objectID": "olimpíadas/grafos.html",
+    "href": "olimpíadas/grafos.html",
     "title": "Teoria dos Grafos",
     "section": "",
     "text": "Algumas notas e problemas interessantes de teoria dos grafos.\n\n\nUm grafo \\(G=(V,E)\\) é euleriano quando…\n\\[\n\\sum_{v\\in V}d(v)=2|E|.\n\\]\nEssa identidade é uma das ferramentas mais básicas em problemas envolvendo graus dos vértices."
   },
   {
-    "objectID": "olímpiadas/grafos.html#grafos-eulerianos",
-    "href": "olímpiadas/grafos.html#grafos-eulerianos",
+    "objectID": "olimpíadas/grafos.html#grafos-eulerianos",
+    "href": "olimpíadas/grafos.html#grafos-eulerianos",
     "title": "Teoria dos Grafos",
     "section": "",
     "text": "Um grafo \\(G=(V,E)\\) é euleriano quando…\n\\[\n\\sum_{v\\in V}d(v)=2|E|.\n\\]\nEssa identidade é uma das ferramentas mais básicas em problemas envolvendo graus dos vértices."
@@ -98,15 +98,15 @@
     "text": "Motivação e objetivos do site\n\n\nContribuidores\n\n\nFormas de Contribuir\n\n\nContatos\nCaso queira tirar dúvidas, mandar sugestões e/ou ter seu material aqui, mande um e-mail que nossa equipe irá responder.\n\neverton.costa33333@gmail.com\n\n\n\nBiográfia do criador"
   },
   {
-    "objectID": "olímpiadas/index.html",
-    "href": "olímpiadas/index.html",
+    "objectID": "olimpíadas/index.html",
+    "href": "olimpíadas/index.html",
     "title": "Olimpíadas",
     "section": "",
     "text": "Aqui reúno problemas e ideias relacionados a olimpíadas universitárias.\n\n\n\nÁlgebra\nCombinatória\nGeometria\nTeoria dos Números\nTeoria dos Grafos"
   },
   {
-    "objectID": "olímpiadas/index.html#áreas",
-    "href": "olímpiadas/index.html#áreas",
+    "objectID": "olimpíadas/index.html#áreas",
+    "href": "olimpíadas/index.html#áreas",
     "title": "Olimpíadas",
     "section": "",
     "text": "Álgebra\nCombinatória\nGeometria\nTeoria dos Números\nTeoria dos Grafos"
