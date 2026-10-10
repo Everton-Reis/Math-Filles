@@ -13,8 +13,6 @@ title: "Materiais"
 
 Outras notas, como exercícios, estão no site do Yuri. 
 
-![Mestre](images/Yuri.png)
-
 ##### A1
 
 - [Prova A1 2026](pdfs/ProcEsto/P1_2026.pdf)
