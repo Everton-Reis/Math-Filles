@@ -40,7 +40,7 @@ Outras notas, como exercícios, estão no site do Yuri.
 - [Prova A1 2025](pdfs/Prob/P1_2025.pdf)
 - [Gab_A1_2025](pdfs/Prob/Gab_P1_2025.pdf)
 
-##### 
+##### A2 
 
 - [Prova A2 2026](pdfs/Prob/P2_2026.pdf)
 
@@ -126,9 +126,9 @@ Em 2019 o professor não foi o Bernardo, como é possível notar.
 
 ##### A2
 
-- [Prova A1 2025](pdfs/Medida/P1_2025.pdf)
-- [Prova A1 2024](pdfs/Medida/P1_2024.pdf)
-- [Prova A1 2023](pdfs/Medida/P1_2023.pdf)
+- [Prova A2 2025](pdfs/Medida/P1_2025.pdf)
+- [Prova A2 2024](pdfs/Medida/P1_2024.pdf)
+- [Prova A2 2023](pdfs/Medida/P1_2023.pdf)
 
 ##### Prova 3
 
