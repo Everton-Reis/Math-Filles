@@ -22,5 +22,11 @@
   },
   "sobre/index.qmd": {
     "index.html": "63d5016a"
+  },
+  "olimpiadas/grafos.qmd": {
+    "grafos.html": "1c732d09"
+  },
+  "olimpiadas/index.qmd": {
+    "index.html": "8fc185fc"
   }
 }

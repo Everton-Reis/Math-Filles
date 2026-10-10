@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Materiais – Matemática</title>
+<title>Materiais – Piauí Math</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -74,6 +74,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -85,7 +114,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="../index.html">
-    <span class="navbar-title">Matemática</span>
+    <span class="navbar-title">Piauí Math</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -99,7 +128,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Início</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../olimpíadas/index.qmd"> 
+    <a class="nav-link" href="../olimpiadas/index.html"> 
 <span class="menu-text">Olimpíadas</span></a>
   </li>  
   <li class="nav-item">
@@ -136,10 +165,14 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#pós-graduação-emap" id="toc-pós-graduação-emap" class="nav-link active" data-scroll-target="#pós-graduação-emap">Pós Graduação Emap</a>
   <ul class="collapse">
-  <li><a href="#provas-antigas" id="toc-provas-antigas" class="nav-link" data-scroll-target="#provas-antigas">Provas Antigas</a></li>
+  <li><a href="#processos-estocásticos" id="toc-processos-estocásticos" class="nav-link" data-scroll-target="#processos-estocásticos">Processos Estocásticos</a></li>
+  <li><a href="#probabilidade" id="toc-probabilidade" class="nav-link" data-scroll-target="#probabilidade">Probabilidade</a></li>
+  <li><a href="#análise-real" id="toc-análise-real" class="nav-link" data-scroll-target="#análise-real">Análise Real</a></li>
+  <li><a href="#análise-no-rn" id="toc-análise-no-rn" class="nav-link" data-scroll-target="#análise-no-rn">Análise no <span class="math inline">\(R^n\)</span></a></li>
+  <li><a href="#análise-funcional-fundamentosavançada" id="toc-análise-funcional-fundamentosavançada" class="nav-link" data-scroll-target="#análise-funcional-fundamentosavançada">Análise Funcional (Fundamentos/Avançada)</a></li>
+  <li><a href="#otimização" id="toc-otimização" class="nav-link" data-scroll-target="#otimização">Otimização</a></li>
+  <li><a href="#algebra-linear" id="toc-algebra-linear" class="nav-link" data-scroll-target="#algebra-linear">Algebra Linear</a></li>
   </ul></li>
-  <li><a href="#dá-pra-botar-python-também" id="toc-dá-pra-botar-python-também" class="nav-link" data-scroll-target="#dá-pra-botar-python-também">Dá pra botar Python também</a></li>
-  <li><a href="#e-o-estilo-coloco-depois" id="toc-e-o-estilo-coloco-depois" class="nav-link" data-scroll-target="#e-o-estilo-coloco-depois">E o estilo coloco depois</a></li>
   </ul>
 </nav>
     </div>
@@ -165,39 +198,131 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="pós-graduação-emap" class="level1">
-<h1>Pós Graduação Emap</h1>
+<section id="pós-graduação-emap" class="level2">
+<h2 class="anchored" data-anchor-id="pós-graduação-emap">Pós Graduação Emap</h2>
+<section id="processos-estocásticos" class="level3">
+<h3 class="anchored" data-anchor-id="processos-estocásticos">Processos Estocásticos</h3>
 <ul>
-<li><a href="pdfs/stochastic_notes.pdf">Notas de Processos Estocásticos</a></li>
+<li><a href="pdfs/ProcEsto/stochastic_notes.pdf">Notas de Processos Estocásticos do Yuri</a></li>
 </ul>
+<p>Outras notas, como exercícios, estão no site do Yuri.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="images/Yuri.png" class="img-fluid figure-img"></p>
 <figcaption>Mestre</figcaption>
 </figure>
 </div>
-<section id="provas-antigas" class="level3">
-<h3 class="anchored" data-anchor-id="provas-antigas">Provas Antigas</h3>
-<section id="a1" class="level4">
-<h4 class="anchored" data-anchor-id="a1">A1</h4>
+<section id="provas-antigas" class="level4">
+<h4 class="anchored" data-anchor-id="provas-antigas">Provas Antigas</h4>
+<section id="a1" class="level5">
+<h5 class="anchored" data-anchor-id="a1">A1</h5>
 <ul>
-<li><a href="pdfs/P1_2025.pdf">Prova A1 2025</a></li>
-<li><a href="pdfs/P1_2024.pdf">Prova A1 2024</a></li>
-<li><a href="pdfs/P1_2023.pdf">Prova A1 2023</a></li>
+<li><a href="pdfs/ProcEsto/P1_2026.pdf">Prova A1 2026</a></li>
+<li><a href="pdfs/ProcEsto/P1_2025.pdf">Prova A1 2025</a></li>
+<li><a href="pdfs/ProcEsto/P1_2024.pdf">Prova A1 2024</a></li>
+<li><a href="pdfs/ProcEsto/P1_2023.pdf">Prova A1 2023</a></li>
 </ul>
 </section>
-<section id="a2" class="level4">
-<h4 class="anchored" data-anchor-id="a2">A2</h4>
+<section id="a2" class="level5">
+<h5 class="anchored" data-anchor-id="a2">A2</h5>
+<ul>
+<li><a href="pdfs/ProcEsto/P2_2026.pdf">Prova A2 2026</a></li>
+<li><a href="pdfs/ProcEsto/P2_2025.pdf">Prova A2 2025</a></li>
+<li><a href="pdfs/ProcEsto/P2_2024.pdf">Prova A2 2024</a></li>
+<li><a href="pdfs/ProcEsto/P2_2020.pdf">Prova A2 2020</a></li>
+</ul>
 </section>
 </section>
 </section>
-<section id="dá-pra-botar-python-também" class="level1">
-<h1>Dá pra botar Python também</h1>
+<section id="probabilidade" class="level3">
+<h3 class="anchored" data-anchor-id="probabilidade">Probabilidade</h3>
+<section id="a1-1" class="level5">
+<h5 class="anchored" data-anchor-id="a1-1">A1</h5>
+<ul>
+<li><a href="pdfs/Prob/P1_2026.pdf">Prova A1 2026</a></li>
+<li><a href="pdfs/Prob/P1_2025.pdf">Prova A1 2025</a></li>
+<li><a href="pdfs/Prob/Gab_P1_2025.pdf">Gab_A1_2025</a></li>
+</ul>
 </section>
-<section id="e-o-estilo-coloco-depois" class="level1">
-<h1>E o estilo coloco depois</h1>
+<section id="section" class="level5">
+<h5 class="anchored" data-anchor-id="section"></h5>
+<ul>
+<li><a href="pdfs/Prob/P2_2026.pdf">Prova A2 2026</a></li>
+</ul>
+<p>Em 2025 o professor foi o Matheus Secco, as listas de exercício se encontram no site pessoal dele.</p>
+</section>
+</section>
+<section id="análise-real" class="level3">
+<h3 class="anchored" data-anchor-id="análise-real">Análise Real</h3>
+<section id="a1-2" class="level5">
+<h5 class="anchored" data-anchor-id="a1-2">A1</h5>
+<p>A prova é igual em 2024, 2025, 2026</p>
+<ul>
+<li><a href="pdfs/AnaReal/P1_2025.pdf">Prova A1 2025</a></li>
+</ul>
+</section>
+</section>
+<section id="análise-no-rn" class="level3">
+<h3 class="anchored" data-anchor-id="análise-no-rn">Análise no <span class="math inline">\(R^n\)</span></h3>
+<section id="a1-3" class="level5">
+<h5 class="anchored" data-anchor-id="a1-3">A1</h5>
+<ul>
+<li><a href="pdfs/Rn/P1_2025.pdf">Prova A1 2025</a></li>
+<li><a href="pdfs/Rn/Gab_P1_2025.pdf">Gabarito A1 2025</a></li>
+</ul>
+</section>
+</section>
+<section id="análise-funcional-fundamentosavançada" class="level3">
+<h3 class="anchored" data-anchor-id="análise-funcional-fundamentosavançada">Análise Funcional (Fundamentos/Avançada)</h3>
+<section id="a1-4" class="level5">
+<h5 class="anchored" data-anchor-id="a1-4">A1</h5>
+<ul>
+<li><a href="pdfs/AnaFunc/P1_2025.pdf">Prova A1 2025</a></li>
+<li><a href="pdfs/AnaFunc/P1_2024.pdf">Prova A1 2024</a></li>
+<li><a href="pdfs/AnaFunc/P1_2023.pdf">Prova A1 2023</a></li>
+<li><a href="pdfs/AnaFunc/P1_2022.pdf">Prova A1 2022</a></li>
+<li><a href="pdfs/AnaFunc/P1_2022_Extra.pdf">Prova A1 2022 - Extra</a></li>
+</ul>
+</section>
+<section id="a2-1" class="level5">
+<h5 class="anchored" data-anchor-id="a2-1">A2</h5>
+<ul>
+<li><a href="pdfs/AnaFunc/P2_2023.pdf">Prova A2 2023</a></li>
+<li><a href="pdfs/AnaFunc/P2_2022.pdf">Prova A2 2022</a></li>
+</ul>
+</section>
+</section>
+<section id="otimização" class="level3">
+<h3 class="anchored" data-anchor-id="otimização">Otimização</h3>
+<section id="a1-5" class="level5">
+<h5 class="anchored" data-anchor-id="a1-5">A1</h5>
+<ul>
+<li><a href="pdfs/Otimizacao/P1_2026.pdf">Prova Única 2026</a></li>
+</ul>
+</section>
+<section id="a2-2" class="level5">
+<h5 class="anchored" data-anchor-id="a2-2">A2</h5>
+</section>
+</section>
+<section id="algebra-linear" class="level3">
+<h3 class="anchored" data-anchor-id="algebra-linear">Algebra Linear</h3>
+<section id="a1-6" class="level6">
+<h6 class="anchored" data-anchor-id="a1-6">A1</h6>
+<ul>
+<li><a href="pdfs/AlgLin/P1_2022.pdf">Prova A1 2022</a></li>
+</ul>
+</section>
+<section id="a2-3" class="level6">
+<h6 class="anchored" data-anchor-id="a2-3">A2</h6>
+<ul>
+<li><a href="pdfs/AlgLin/P2_2026.pdf">Prova A2 2026</a></li>
+<li><a href="pdfs/AlgLin/P2_2025.pdf">Prova A2 2025</a></li>
+<li><a href="pdfs/AlgLin/P2_2024.pdf">Prova A2 2024</a></li>
+</ul>
 
 
+</section>
+</section>
 </section>
 
 </main> <!-- /main -->

@@ -18,14 +18,14 @@
     "href": "materiais/index.html",
     "title": "Materiais",
     "section": "",
-    "text": "Pós Graduação Emap\n\nNotas de Processos Estocásticos\n\n\n\n\nMestre\n\n\n\nProvas Antigas\n\nA1\n\nProva A1 2025\nProva A1 2024\nProva A1 2023\n\n\n\nA2\n\n\n\n\nDá pra botar Python também\n\n\nE o estilo coloco depois"
+    "text": "Notas de Processos Estocásticos do Yuri\n\nOutras notas, como exercícios, estão no site do Yuri.\n\n\n\nMestre\n\n\n\n\n\n\n\nProva A1 2026\nProva A1 2025\nProva A1 2024\nProva A1 2023\n\n\n\n\n\nProva A2 2026\nProva A2 2025\nProva A2 2024\nProva A2 2020\n\n\n\n\n\n\n\n\n\nProva A1 2026\nProva A1 2025\nGab_A1_2025\n\n\n\n\n\nProva A2 2026\n\nEm 2025 o professor foi o Matheus Secco, as listas de exercício se encontram no site pessoal dele.\n\n\n\n\n\n\nA prova é igual em 2024, 2025, 2026\n\nProva A1 2025\n\n\n\n\n\n\n\n\nProva A1 2025\nGabarito A1 2025\n\n\n\n\n\n\n\n\nProva A1 2025\nProva A1 2024\nProva A1 2023\nProva A1 2022\nProva A1 2022 - Extra\n\n\n\n\n\nProva A2 2023\nProva A2 2022\n\n\n\n\n\n\n\n\nProva Única 2026\n\n\n\n\n\n\n\n\n\n\n\nProva A1 2022\n\n\n\n\n\nProva A2 2026\nProva A2 2025\nProva A2 2024"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Piauí Math",
     "section": "",
-    "text": "Este é meu espaço para compartilhar coisas de matemática que considero interessantes.\nAqui pretendo reunir problemas, soluções, notas e materiais para estudantes de matemática, especialmente aqueles interessados em olimpíadas universitárias.\n\n\nAlguns dos assuntos que mais me interessam:\n\nÁlgebra Linear\nProbabilidade e Processos Estocásticos\nGeometria (Euclidiana e Diferencial)\nTeoria dos Números\n\n\n\n\nTambém pretendo escrever pequenas notas sobre matemática que estou estudando.\n\n\n\nUma coleção de:\n\nprovas;\nlistas de exercícios;\nlivros;\nartigos;\noutros materiais."
+    "text": "Este é meu espaço para compartilhar coisas de matemática que considero interessantes.\nAqui pretendo reunir problemas, soluções, notas e materiais para estudantes de matemática, especialmente aqueles interessados em olimpíadas universitárias.\n\n\nAlguns dos assuntos que mais me interessam:\n\nÁlgebra Linear\nProbabilidade e Processos Estocásticos\nGeometria (Euclidiana e Diferencial)\nTeoria dos Números\n\n\n\n\nTambém pretendo escrever pequenas notas sobre matemática que estou estudando.\n\n\n\nUma coleção de:\n\nprovas;\nlistas de exercícios;\nlivros (quando permitido);\nartigos;\noutros materiais.\n\n\n\n\n\nEverton Costa Reis (FGV-Emap)\nRodrigo Severo Araujo (FGV-Emap)"
   },
   {
     "objectID": "index.html#olimpíadas",
@@ -46,7 +46,7 @@
     "href": "index.html#materiais",
     "title": "Piauí Math",
     "section": "",
-    "text": "Uma coleção de:\n\nprovas;\nlistas de exercícios;\nlivros;\nartigos;\noutros materiais."
+    "text": "Uma coleção de:\n\nprovas;\nlistas de exercícios;\nlivros (quando permitido);\nartigos;\noutros materiais."
   },
   {
     "objectID": "olímpiadas/index.html",
@@ -82,5 +82,75 @@
     "title": "Problemas — Invariantes",
     "section": "",
     "text": "…\n\n\n…"
+  },
+  {
+    "objectID": "sobre/index.html",
+    "href": "sobre/index.html",
+    "title": "Sobre o Site",
+    "section": "",
+    "text": "Motivação e objetivos do site\n\n\nContribuidores\n\n\nFormas de Contribuir\n\n\nContatos\nCaso queira tirar dúvidas, mandar sugestões e/ou ter seu material aqui, mande um e-mail que nossa equipe irá responder.\n\neverton.costa33333@gmail.com\n\n\n\nBiográfia do criador"
+  },
+  {
+    "objectID": "olimpiadas/index.html",
+    "href": "olimpiadas/index.html",
+    "title": "Olimpíadas",
+    "section": "",
+    "text": "Aqui reúno problemas e ideias relacionados a olimpíadas universitárias.\n\n\n\nÁlgebra\nCombinatória\nGeometria\nTeoria dos Números\nTeoria dos Grafos"
+  },
+  {
+    "objectID": "olimpiadas/index.html#áreas",
+    "href": "olimpiadas/index.html#áreas",
+    "title": "Olimpíadas",
+    "section": "",
+    "text": "Álgebra\nCombinatória\nGeometria\nTeoria dos Números\nTeoria dos Grafos"
+  },
+  {
+    "objectID": "index.html#contribuidores",
+    "href": "index.html#contribuidores",
+    "title": "Piauí Math",
+    "section": "",
+    "text": "Everton Costa Reis (FGV-Emap)\nRodrigo Severo Araujo (FGV-Emap)"
+  },
+  {
+    "objectID": "materiais/index.html#pós-graduação-emap",
+    "href": "materiais/index.html#pós-graduação-emap",
+    "title": "Materiais",
+    "section": "",
+    "text": "Notas de Processos Estocásticos do Yuri\n\nOutras notas, como exercícios, estão no site do Yuri.\n\n\n\nMestre\n\n\n\n\n\n\n\nProva A1 2026\nProva A1 2025\nProva A1 2024\nProva A1 2023\n\n\n\n\n\nProva A2 2026\nProva A2 2025\nProva A2 2024\nProva A2 2020\n\n\n\n\n\n\n\n\n\nProva A1 2026\nProva A1 2025\nGab_A1_2025\n\n\n\n\n\nProva A2 2026\n\nEm 2025 o professor foi o Matheus Secco, as listas de exercício se encontram no site pessoal dele.\n\n\n\n\n\n\nA prova é igual em 2024, 2025, 2026\n\nProva A1 2025\n\n\n\n\n\n\n\n\nProva A1 2025\nGabarito A1 2025\n\n\n\n\n\n\n\n\nProva A1 2025\nProva A1 2024\nProva A1 2023\nProva A1 2022\nProva A1 2022 - Extra\n\n\n\n\n\nProva A2 2023\nProva A2 2022\n\n\n\n\n\n\n\n\nProva Única 2026\n\n\n\n\n\n\n\n\n\n\n\nProva A1 2022\n\n\n\n\n\nProva A2 2026\nProva A2 2025\nProva A2 2024"
+  },
+  {
+    "objectID": "olimpiadas/grafos.html",
+    "href": "olimpiadas/grafos.html",
+    "title": "Teoria dos Grafos",
+    "section": "",
+    "text": "Algumas notas e problemas interessantes de teoria dos grafos.\n\n\nUm grafo \\(G=(V,E)\\) é euleriano quando…\n\\[\n\\sum_{v\\in V}d(v)=2|E|.\n\\]\nEssa identidade é uma das ferramentas mais básicas em problemas envolvendo graus dos vértices."
+  },
+  {
+    "objectID": "olimpiadas/grafos.html#grafos-eulerianos",
+    "href": "olimpiadas/grafos.html#grafos-eulerianos",
+    "title": "Teoria dos Grafos",
+    "section": "",
+    "text": "Um grafo \\(G=(V,E)\\) é euleriano quando…\n\\[\n\\sum_{v\\in V}d(v)=2|E|.\n\\]\nEssa identidade é uma das ferramentas mais básicas em problemas envolvendo graus dos vértices."
+  },
+  {
+    "objectID": "problemas/index.html",
+    "href": "problemas/index.html",
+    "title": "Problemas Variados",
+    "section": "",
+    "text": "Teoria dos Números &gt;&gt;&gt;&gt;&gt;&gt; all\n(Aceitem!)"
+  },
+  {
+    "objectID": "problemas/index.html#a-única-verdade",
+    "href": "problemas/index.html#a-única-verdade",
+    "title": "Problemas Variados",
+    "section": "",
+    "text": "Teoria dos Números &gt;&gt;&gt;&gt;&gt;&gt; all\n(Aceitem!)"
+  },
+  {
+    "objectID": "materiais/index.html#prova-a1-2023",
+    "href": "materiais/index.html#prova-a1-2023",
+    "title": "Materiais",
+    "section": "-Prova A1 2023",
+    "text": "-Prova A1 2023\n\nProva A1 2023\nProva A1 2022\nProva A1 2022 - Extra\n\n\nA2\n\nProva A2 2023\nProva A2 2022\n\n\n\nOtimização\n\nA1\n\n[Prova A1 2025]\n\n\n\nA2\n\n[Prova A2 2025]\n\n\n\n\nAlgebra Lienar\n\nA1\n\nProva A1 2022\n\n\n\nA2\n\nProva A2 2025"
   }
 ]
