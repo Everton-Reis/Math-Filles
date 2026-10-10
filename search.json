@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "notas/index.html",
+    "href": "notas/index.html",
+    "title": "Notas Math",
+    "section": "",
+    "text": "Aqui é onde o “brio” se cria!\nAqui tem notas de sobre tudo, desde como caçar um coelho eficientemente até a otimização de gasolina do Optmus Prime.\nVou reunir notas sobre tudo aquilo que considerar legal e útil para quem quer ler.\nPara não deixar vazio, segue minhas notas de E.D.O, muito baseadas nas aulas que tive e no Livro do Boyce.\n\nNotas de Equações Diferenciais Ordinarias (EDO)"
+  },
+  {
     "objectID": "problemas/invariantes.html",
     "href": "problemas/invariantes.html",
     "title": "Problemas — Invariantes",
@@ -39,7 +46,7 @@
     "href": "materiais/index.html#provas-antigas",
     "title": "Materiais",
     "section": "Provas Antigas",
-    "text": "Provas Antigas\n\nProcessos Estocásticos\n\nNotas de Processos Estocásticos do Yuri\n\nOutras notas, como exercícios, estão no site do Yuri.\n\n\n\nMestre\n\n\n\nA1\n\nProva A1 2026\nProva A1 2025\nProva A1 2024\nProva A1 2023\nProva A1 Mestrado 2020\n\n\n\nA2\n\nProva A2 2026\nProva A2 2025\nProva A2 2024\nProva A2 2023\nProva A2 Doutorado 2020\nProva A2 Mestrado 2020\n\n\n\n\nProbabilidade\n\nA1\n\nProva A1 2026\nProva A1 2025\nGab_A1_2025\n\n\n\nA2\n\nProva A2 2026\n\nEm 2025 o professor foi o Matheus Secco, as listas de exercício se encontram no site pessoal dele.\n\n\n\nAnálise Real\n\nA1\n\nProva A1 2023\nProva A1 2024\n\n\n\nA2\nEle repetiu a mesma prova em 2026, 2025 e 2024.\n\nProva A1 2025\n\n\n\n\nAnálise no \\(R^n\\)\n\nA1\n\nProva A1 2025\nGabarito A1 2025\nProva A1 2024\n\n\n\nA2\n\nProva A2 2025 (Com Gabarito)\n\n\n\nProva Supletiva\n\nProva As 2025\n\n\n\n\nAnálise Funcional (Fundamentos/Avançada)\n\nA1\n\nProva A1 2025\nProva A1 2024\nProva A1 2023\nProva A1 2022\nProva A1 2022 - Extra\n\n\n\nA2\n\nProva A2 2023\nProva A2 2022\n\n\n\n\nOtimização\n\nProva Única\n\nProva Única 2026\nProva Única 2025\n\n\n\n\nAlgebra Linear\n\nA1\n\nProva A1 2025\nProva A1 2024\nProva A1 2023\nProva A1 2022\n\n\n\nA2\n\nProva A2 2026\nProva A2 2025\nProva A2 2024\n\n\n\n\nTeoria da Medida\n\nA1\n\nProva A1 2025\nProva A1 2024\nProva A1 2023\nProva A1 2019\n\nEm 2019 o professor não foi o Bernardo, como é possível notar.\n\n\nA2\n\nProva A2 2025\nProva A2 2024\nProva A2 2023\n\n\n\nProva 3\n\nProva P3 2025"
+    "text": "Provas Antigas\n\nProcessos Estocásticos\n\nNotas de Processos Estocásticos do Yuri\n\nOutras notas, como exercícios, estão no site do Yuri.\n\nA1\n\nProva A1 2026\nProva A1 2025\nProva A1 2024\nProva A1 2023\nProva A1 Mestrado 2020\n\n\n\nA2\n\nProva A2 2026\nProva A2 2025\nProva A2 2024\nProva A2 2023\nProva A2 Doutorado 2020\nProva A2 Mestrado 2020\n\n\n\n\nProbabilidade\n\nA1\n\nProva A1 2026\nProva A1 2025\nGab_A1_2025\n\n\n\nA2\n\nProva A2 2026\n\nEm 2025 o professor foi o Matheus Secco, as listas de exercício se encontram no site pessoal dele.\n\n\n\nAnálise Real\n\nA1\n\nProva A1 2023\nProva A1 2024\n\n\n\nA2\nEle repetiu a mesma prova em 2026, 2025 e 2024.\n\nProva A1 2025\n\n\n\n\nAnálise no \\(R^n\\)\n\nA1\n\nProva A1 2025\nGabarito A1 2025\nProva A1 2024\n\n\n\nA2\n\nProva A2 2025 (Com Gabarito)\n\n\n\nProva Supletiva\n\nProva As 2025\n\n\n\n\nAnálise Funcional (Fundamentos/Avançada)\n\nA1\n\nProva A1 2025\nProva A1 2024\nProva A1 2023\nProva A1 2022\nProva A1 2022 - Extra\n\n\n\nA2\n\nProva A2 2023\nProva A2 2022\n\n\n\n\nOtimização\n\nProva Única\n\nProva Única 2026\nProva Única 2025\n\n\n\n\nAlgebra Linear\n\nA1\n\nProva A1 2025\nProva A1 2024\nProva A1 2023\nProva A1 2022\n\n\n\nA2\n\nProva A2 2026\nProva A2 2025\nProva A2 2024\n\n\n\n\nTeoria da Medida\n\nA1\n\nProva A1 2025\nProva A1 2024\nProva A1 2023\nProva A1 2019\n\nEm 2019 o professor não foi o Bernardo, como é possível notar.\n\n\nA2\n\nProva A2 2025\nProva A2 2024\nProva A2 2023\n\n\n\nProva 3\n\nProva P3 2025"
   },
   {
     "objectID": "index.html",
@@ -81,14 +88,14 @@
     "href": "olimpiadas/index.html",
     "title": "Olimpíadas",
     "section": "",
-    "text": "Aqui reúno problemas e ideias relacionados a olimpíadas universitárias.\n\n\n\nÁlgebra\nCombinatória\nGeometria\nTeoria dos Números\nTeoria dos Grafos"
+    "text": "Aqui reúno problemas e ideias relacionados a olimpíadas universitárias.\nEm breve vai ter coisa legal aqui, aguardem…"
   },
   {
     "objectID": "olimpiadas/index.html#áreas",
     "href": "olimpiadas/index.html#áreas",
     "title": "Olimpíadas",
-    "section": "",
-    "text": "Álgebra\nCombinatória\nGeometria\nTeoria dos Números\nTeoria dos Grafos"
+    "section": "Áreas",
+    "text": "Áreas\n\nÁlgebra\nCombinatória\nGeometria\nTeoria dos Números\nTeoria dos Grafos"
   },
   {
     "objectID": "problemas/index.html",
