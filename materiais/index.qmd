@@ -77,6 +77,8 @@ Ele repetiu a mesma prova em 2026, 2025 e 2024.
 
 ##### A1
 
+- [Prova A1 2026](pdfs/AnaFunc/P1_2026.pdf)
+- [Prova A1 2026 Gabarito](pdfs/AnaFunc/P1_2026_Gab.pdf)
 - [Prova A1 2025](pdfs/AnaFunc/P1_2025.pdf)
 - [Prova A1 2024](pdfs/AnaFunc/P1_2024.pdf)
 - [Prova A1 2023](pdfs/AnaFunc/P1_2023.pdf)
@@ -115,6 +117,7 @@ Ele repetiu a mesma prova em 2026, 2025 e 2024.
 
 ##### A1
 
+- [Prova A1 2026](pdfs/Medida/P1_2026.pdf)
 - [Prova A1 2025](pdfs/Medida/P1_2025.pdf)
 - [Prova A1 2024](pdfs/Medida/P1_2024.pdf)
 - [Prova A1 2023](pdfs/Medida/P1_2023.pdf)
@@ -124,6 +127,7 @@ Em 2019 o professor não foi o Bernardo, como é possível notar.
 
 ##### A2
 
+- [Prova A2 2026 (Data errada, ignore)](pdfs/Medida/P2_2026.pdf)
 - [Prova A2 2025](pdfs/Medida/P1_2025.pdf)
 - [Prova A2 2024](pdfs/Medida/P1_2024.pdf)
 - [Prova A2 2023](pdfs/Medida/P1_2023.pdf)
